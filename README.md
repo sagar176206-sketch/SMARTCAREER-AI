@@ -1,4 +1,4 @@
-﻿# SMARTCAREER AI - Resume Intelligence Platform
+# SMARTCAREER AI - Resume Intelligence Platform
 
 **An Intelligent Resume Analysis & Career Recommendation System**
 
@@ -36,23 +36,20 @@ The platform analyzes uploaded PDF resumes and generates useful insights through
 
 ```text
 AI_Resume_Analyzer/
-â”‚
-â”œâ”€â”€ app.py
-â”œâ”€â”€ resume_upload_app.py
-â”œâ”€â”€ requirements.txt
-â”œâ”€â”€ README.md
-â”œâ”€â”€ .gitignore
-â”œâ”€â”€ run_app.bat
-â”‚
-â”œâ”€â”€ data/
-â”‚
-â””â”€â”€ src/
-    â”œâ”€â”€ __init__.py
-    â”œâ”€â”€ pdf_reader.py
-    â”œâ”€â”€ resume_parser.py
-    â”œâ”€â”€ resume_scorer.py
-    â”œâ”€â”€ skill_extractor.py
-    â””â”€â”€ job_recommender.py
+|-- app.py
+|-- resume_upload_app.py
+|-- requirements.txt
+|-- README.md
+|-- .gitignore
+|-- run_app.bat
+|-- data/
+|-- src/
+    |-- __init__.py
+    |-- pdf_reader.py
+    |-- resume_parser.py
+    |-- resume_scorer.py
+    |-- skill_extractor.py
+    |-- job_recommender.py
 ```
 
 ## Installation and Setup
@@ -60,13 +57,13 @@ AI_Resume_Analyzer/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/sagar176206-sketch/SMARTCAREER-AI.git
 ```
 
 ### 2. Open the Project Folder
 
 ```bash
-cd AI_Resume_Analyzer
+cd SMARTCAREER-AI
 ```
 
 ### 3. Install Dependencies
@@ -113,4 +110,3 @@ Independent AI/ML Portfolio Project
 ---
 
 **SMARTCAREER AI - Analyze Your Resume. Discover Your Career Direction.**
-
